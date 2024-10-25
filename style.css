@@ -571,7 +571,12 @@ color: #9b3046;
 form#demo-form {
     float: left;
 }
-
+.footer{
+    position: absolute;
+    background: #fff;
+    bottom: 0;
+    width: 100%;
+}
 
 @media (min-width: 768px) {
     .infinity-container {
